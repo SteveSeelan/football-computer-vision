@@ -1,0 +1,11 @@
+output_videos/output_vid.avi
+yolov8x.pt
+models/last.pt
+models/best.pt
+runs/detect/predict/08fd33_1.avi
+runs/detect/predict3/08fd33_1.avi
+training/yolov5xu.pt
+training/yolov8n.pt
+training/runs/detect/train6/weights/last.pt
+training/runs/detect/train6/weights/best.pt
+runs/detect/predict2/08fd33_1.avi
